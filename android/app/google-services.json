@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963736450522",
+    "project_id": "mydiary-7b409",
+    "storage_bucket": "mydiary-7b409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963736450522:android:2999683e297b38c2ab3ce3",
+        "android_client_info": {
+          "package_name": "com.liyanage.my_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963736450522-942t9t1siohscssejr8gvmki2u9d82rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZuBNYtsx6AotK7jJ2VeCbwkMVWfFB7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963736450522-942t9t1siohscssejr8gvmki2u9d82rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
